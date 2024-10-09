@@ -8,3 +8,5 @@
 - Key repeats.
 - Shift or ctrl cannot release.
 
+# ibus-anthy-tron (little finger shift version)
+
